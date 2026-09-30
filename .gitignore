@@ -18,9 +18,7 @@ firebase-adminsdk*.json
 node_modules/
 
 # ─── Build outputs ──────────────────────────────────────────────
-dist/
 dist-ssr/
-build/
 
 # ─── Uploads (user data) ────────────────────────────────────────
 server/uploads/
